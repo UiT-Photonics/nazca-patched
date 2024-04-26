@@ -8,3 +8,5 @@ I have tried emailing the original authors of Nazca about this issue but have ye
 ## Will there be any further updates to Nazca in this repo?
 Almost certainly not. Should there be any updates on the official site I will likely take this repo down or just replace it with a link and a note.
 
+## How do i install it?
+Follow the official [installation instructions](https://nazca-design.org/installation/) but replace Step 2 with downloading [our zip file](https://github.com/UiT-Photonics/nazca-patched/raw/main/nazca-0.5.14.zip) and use that one in the subsequent steps.

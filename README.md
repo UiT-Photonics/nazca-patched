@@ -9,7 +9,8 @@ I have tried emailing the original authors of Nazca about this issue but have ye
 Broken again as of 
 - numpy 2.0.0, need to pin at 1.26.4
 - matplotlib 3.9.0 (see [SO](https://stackoverflow.com/questions/78628960/module-matplotlib-cm-has-no-attribute-get-cmap)), need to pin at 3.7.3
-- will patch it again (pinning numpy-1.26.4) and reupload the zip when i get the time.
+
+will patch it again (pinning numpy-1.26.4) and reupload the zip when i get the time.
 
 
 ### How do i install it?

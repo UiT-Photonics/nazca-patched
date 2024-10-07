@@ -5,14 +5,6 @@ The package distributed in this repo has been patched to simply pin the version 
 
 I have tried emailing the original authors of Nazca about this issue but have yet to receive any answer.
 
-### TODO
-Broken again as of 
-- numpy 2.0.0, need to pin at 1.26.4
-- matplotlib 3.9.0 (see [SO](https://stackoverflow.com/questions/78628960/module-matplotlib-cm-has-no-attribute-get-cmap)), need to pin at 3.7.3
-
-will patch it again (pinning numpy-1.26.4) and reupload the zip when i get the time.
-
-
 ### How do i install it?
 Follow the official [installation instructions](https://nazca-design.org/installation/) but replace Step 2 with downloading [our zip file](https://github.com/UiT-Photonics/nazca-patched/raw/main/nazca-0.5.14.zip) and use that one in the subsequent steps.
 
